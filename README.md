@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @phunkie24
-- 👀 I’m interested in python, R and MySQL 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in python, R, SQL, C, C#, C++, Java, Nod.js, HTML, CSS, JavaScript, Angular, React
+- 🌱 I’m currently learning Cloud Computing and AI Engineering 
 - 💞️ I’m looking to collaborate on GitHub 
-- 📫 How to reach me +2347041573270
 
 <!---
 phunkie24/phunkie24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
